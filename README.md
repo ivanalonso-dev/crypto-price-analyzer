@@ -42,3 +42,6 @@ The goal of this project is to build a Python application that allows users to i
 - Load stored data
 - Calculate statistics (average, max, min)
 - Identify highest and lowest priced crypto
+
+---
+*Author: Ivan Alonso · [GitHub](https://github.com/ivanalonso-dev) · [LinkedIn](https://www.linkedin.com/in/ivanalonsodev) · [X](https://x.com/ivanalonsodev)*
